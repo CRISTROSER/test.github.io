@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Color de fondo suave */
+    color: #333; /* Texto oscuro para buena legibilidad */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #070707; /* Color de fondo para el encabezado */
+    color: white; /* Color del texto en el encabezado */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Centrar el texto */
+    border-bottom: 4px solid #0056b3; /* Línea inferior más oscura */
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #0d0d0e; /* Color de fondo para el pie de página */
+    color: #555; /* Texto ligeramente más claro */
+    padding: 20px 0; /* Más espacio en el pie de página */
+    text-align: center; /* Centrar el texto */
+    margin-top: 20px;
+    border-top: 1px solid #ddd; /* Línea superior para separación */
+}
+
+/* Estilos adicionales para enlaces */
+a {
+    color: #007bff; /* Color de los enlaces */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+}
